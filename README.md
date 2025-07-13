@@ -37,15 +37,20 @@ This activity involves creating a Bash script to automate the collection of syst
 
 ## Repository Structure
 
-.
-├── Lab1/
-├── Lab2/
-├── Lab3/
-├── my_notes.txt
-├── README.md
-├── system_report.sh
-└── system_report_YYYYMMDD_HHMMSS.txt (example generated report)
 
+├── Lab1/
+
+├── Lab2/
+
+├── Lab3/
+
+├── my_notes.txt
+
+├── README.md
+
+├── system_report.sh
+
+└── system_report_YYYYMMDD_HHMMSS.txt (example generated report)
 ## Setup and Environment
 
 * **Operating System:** Ubuntu 24.04 LTS (Guest OS)
